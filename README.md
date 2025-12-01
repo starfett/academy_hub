@@ -3,7 +3,7 @@ Gerenciamento de informações acadêmicas (alunos, cursos, notas, pagamentos et
 
 ⚙ Instalação e Execução
 *Clone o repositório:
-git clone https://github.com/SEU-USUARIO/AcademicHub.git
+git clone https://github.com/starfett/academy_hub
 cd AcademicHub
 
 *Instale as dependências:
